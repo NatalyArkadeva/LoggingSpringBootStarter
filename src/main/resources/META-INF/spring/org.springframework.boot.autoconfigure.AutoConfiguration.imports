@@ -1,0 +1,2 @@
+com.nataly.loggingspringbootstarter.config.LoggingAutoConfiguration
+com.nataly.loggingspringbootstarter.interceptor.config.LoggingInterceptorConfig
